@@ -30,6 +30,12 @@ strong {
     font-weight: 600;
 }
 
+.botao {
+    font-size: 24px;
+    font-weight: 700;
+    text-decoration: none;
+}
+
 /* cabeçalho */
 
 .item-lista-cabecalho a {
@@ -45,11 +51,6 @@ strong {
     font-size: 19px;
 }
 
-.hero-botao {
-    font-size: 24px;
-    font-weight: 700;
-    text-decoration: none;
-}
 
 /* Seção Conteúdos Gratuitos */
 
@@ -102,4 +103,49 @@ strong {
     color: #005e88;
     font-weight: 700;
     text-decoration: none;
+}
+
+/* Seção O que falam */
+
+.oquefalam-realce {
+    font-weight: 600;
+}
+
+/* Seção Blog */
+
+.blog-postadoem {
+    font-size: 15px;
+}
+
+.blog-postadoem a {
+    font-weight: 600;
+    color: #f7a70c;
+    text-decoration: none;
+}
+
+.blog-titulopost {
+    font-size: 24px;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.blog-descricaopost {
+    font-size: 17px;
+}
+
+/* Seção Como ajudar */
+
+.comoajudar-realce {
+    font-weight: 600;
+}
+
+.comoajudar-lista, 
+.comoajudar-paragrafo {
+    font-size: 19px;
+}
+
+.comoajudar-lista a,
+.comoajudar-paragrafo a {
+    color: #008ff7;
+    font-weight: 600;
 }
